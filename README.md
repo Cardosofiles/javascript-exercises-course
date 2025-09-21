@@ -1,6 +1,20 @@
-# JavaScript Exercises Course
+<div align="center">
+
+<h1 align="center">Exercícios de JavaScript</h1>
+
+### Informações
+
+![Instituição](https://img.shields.io/badge/Instituição-OneBitCode-0078D4?style=for-the-badge&logo=azuredevops)
+![Curso](https://img.shields.io/badge/Curso-JavaScript-4B8BBE?style=for-the-badge&logo=github)
+![Professor](https://img.shields.io/badge/Professor-Isaac%20Pontes-FFCA28?style=for-the-badge&logo=linkedin)
+
+**Instituição:** [OneBitCode](https://onebitcode.com/)  
+**Curso:** Praticando JavaScript  
+**Professor:** [Isaac Pontes](https://www.linkedin.com/in/isaac-pontes/)
 
 Repositório com exercícios práticos de JavaScript organizados por níveis de dificuldade. Ideal para quem quer praticar e aprimorar as habilidades na linguagem, desde o básico ao avançado, utilizando o terminal e Node.js.
+
+</div>
 
 ---
 
@@ -51,6 +65,7 @@ javascript-exercises-course/
 ### Passo a Passo
 
 1. **Clone o repositório**
+
    ```bash
    git clone https://github.com/Cardosofiles/javascript-exercises-course.git
    cd javascript-exercises-course
@@ -111,5 +126,13 @@ node hard/recursaoAvancada.js
 <a href="https://cardosofiles.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio"/>
 </a>
+
+</div>
+
+---
+
+<div align="right">
+
+[⬆️ Voltar ao topo](#informações)
 
 </div>
